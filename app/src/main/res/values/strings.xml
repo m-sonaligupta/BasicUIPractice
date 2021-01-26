@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UIPractice</string>
+    <string name="sonali_gupta">Sonali Gupta</string>
+    <string name="button">Button</string>
+    <string name="i_am_an_android_developer">I am an Android Developer!</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
